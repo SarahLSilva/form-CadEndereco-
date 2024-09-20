@@ -1,14 +1,40 @@
 <!DOCTYPE html>
-<html>
+<html lang="pt-BR">
 <head>
-    <meta charset='utf-8'>
-    <meta http-equiv='X-UA-Compatible' content='IE=edge'>
-    <title>Page Title</title>
-    <meta name='viewport' content='width=device-width, initial-scale=1'>
-    <link rel='stylesheet' type='text/css' media='screen' href='main.css'>
-    <script src='main.js'></script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <title>Cadastro de Endereço</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" media="screen" href="css.css">
+    <script src="main.js" defer></script>
 </head>
 <body>
-    
+    <div class="container">
+        <h1>Cadastro de Endereço</h1><br><br>
+        
+        <label for="CEPuser">CEP:</label>
+        <input type="text" id="CEPuser" class="form-control" ><br>
+
+        <label for="rua">Rua:</label>
+        <input type="text" id="rua" class="form-control" placeholder="Sua rua ira aparecer aqui">
+
+        <label for="numero">N.°:</label>
+        <input type="text" id="numero" class="form-control" placeholder="Seu N.° ira aparecer aqui">
+
+        <label for="bairro"> Bairro:</label>
+        <input type="text" id="bairro" class="form-control" placeholder="Seu Bairro ira aparecer aqui">
+
+        <label for="complemento">Complemento:</label>
+        '                           '
+        <input type="text" id="complemento" class="form-control" placeholder="Seu complemento ira aparecer aqui">
+
+        <label for="cidade">Cidade:</label>
+        <input type="text" id="cidade" class="form-control" placeholder="Sua cidade ira aparecer aqui">
+
+        <label for="estado">Estado:</label>
+        <input type="text" id="estado" class="form-control"placeholder="Sua estado ira aparecer aqui">
+
+        <button>Enviar</button>
+    </div>
 </body>
 </html>
