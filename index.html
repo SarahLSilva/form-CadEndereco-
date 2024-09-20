@@ -5,18 +5,18 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <title>Cadastro de Endereço</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" type="text/css" media="screen" href="css.css">
+    <link rel="stylesheet" type="text/css" media="screen" href="main.css">
     <script src="main.js" defer></script>
 </head>
 <body>
+
+    <h1>Cadastro de Endereço</h1>
     <div class="container">
-        <h1>Cadastro de Endereço</h1><br><br>
-        
         <label for="CEPuser">CEP:</label>
-        <input type="text" id="CEPuser" class="form-control" ><br>
+        <input type="text" id="CEPuser" class="form-control" placeholder="Digite seu CEP aqui"><br>
 
         <label for="rua">Rua:</label>
-        <input type="text" id="rua" class="form-control" placeholder="Sua rua ira aparecer aqui">
+        <input type="text" id="logradouro" class="form-control" placeholder="Sua rua ira aparecer aqui">
 
         <label for="numero">N.°:</label>
         <input type="text" id="numero" class="form-control" placeholder="Seu N.° ira aparecer aqui">
@@ -25,14 +25,15 @@
         <input type="text" id="bairro" class="form-control" placeholder="Seu Bairro ira aparecer aqui">
 
         <label for="complemento">Complemento:</label>
-        '                           '
-        <input type="text" id="complemento" class="form-control" placeholder="Seu complemento ira aparecer aqui">
+        <input type="text" id="COMPLEMENTO" class="form-control" placeholder="Seu complemento ira aparecer aqui">
+
+        <!-- bloco dados da cidade e estado -->
 
         <label for="cidade">Cidade:</label>
-        <input type="text" id="cidade" class="form-control" placeholder="Sua cidade ira aparecer aqui">
+        <input type="text" id="LOCALIDADE" class="form-control" placeholder="Sua cidade ira aparecer aqui">
 
         <label for="estado">Estado:</label>
-        <input type="text" id="estado" class="form-control"placeholder="Sua estado ira aparecer aqui">
+        <input type="text" id="UF" class="form-control"placeholder="Sua estado ira aparecer aqui">
 
         <button>Enviar</button>
     </div>
