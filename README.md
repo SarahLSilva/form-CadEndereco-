@@ -15,17 +15,25 @@
 # introdução 
 
 # Resumo-da-funcionalidade
+
 O projeto basea-se em tornar mais pratico a realização de cadstro de endeço. Qual quando é digitado o cep preenche todo os outro campos como; bairro, cidade... mantando a padronização.
 
 # Explanção-do-codigo
 
 # Tecnologias-utilizadas
+
 HTML5, CSS3 E JS
+
 # Fontes
-- viaCep
+
+-viaCep
+
 # participantes
-- Sarah
+
+-Sarah
+
 # orientação
-- Professou leonardo (da escola marista irmão acácio)
+
+-Professou leonardo (da escola marista irmão acácio)
 
 
