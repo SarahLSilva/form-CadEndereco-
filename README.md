@@ -4,13 +4,13 @@
 
 # Sumario
 
-[introdução]#introdução
-[ResumoDaFuncionalidade]#Resumo-da-funcionalidade
-[ExplançãoDoCodigo]#Explanção-do-codigo
-[TecnologiasUtilizadas]#Tecnologias-utilizadas
-[Fontes]#Fontes
-[Participantes]#participantes
-[Orientação]#orientação
+* [introdução]#introdução
+* [ResumoDaFuncionalidade]#Resumo-da-funcionalidade
+* [ExplançãoDoCodigo]#Explanção-do-codigo
+* [TecnologiasUtilizadas]#Tecnologias-utilizadas
+* [Fontes]#Fontes
+* [Participantes]#participantes
+* [Orientação]#orientação
 
 # introdução 
 
