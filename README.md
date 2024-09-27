@@ -6,13 +6,7 @@ Este projeto permite o preenchimento automático de campos de endereço com base
 
 # Sumario
 
-* [introdução]#introdução
-* [ResumoDaFuncionalidade]#Resumo-da-funcionalidade
-* [ExplançãoDoCodigo]#Explanção-do-codigo
-* [TecnologiasUtilizadas]#Tecnologias-utilizadas
-* [Fontes]#Fontes
-* [Participantes]#participantes
-* [Orientação]#orientação
+
 
 # 💎 Principais Funções
 
