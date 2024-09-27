@@ -2,7 +2,7 @@
 
 Este projeto permite o preenchimento automático de campos de endereço com base no CEP informado pelo usuário. Utiliza a API ViaCEP para buscar as informações necessárias.
 
---> (banner)
+![banner](img/form-edereco.gif)
 
 # Sumario
 
