@@ -14,7 +14,7 @@ Este projeto permite o preenchimento automático de campos de endereço com base
 * [Participantes]#participantes
 * [Orientação]#orientação
 
-# Principais Funções
+# 💎 Principais Funções
 
 limparFormulario(): Limpa todos os campos do formulário.
 
@@ -34,7 +34,7 @@ Preenchimento Automático: Preenche os campos de endereço com os dados retornad
 
 Limpeza de Campos: Limpa os campos de endereço antes de realizar uma nova busca.
 
-# Resumo-da-funcionalidade
+# 🟡 Resumo-da-funcionalidade
 
 O projeto basea-se em tornar mais pratico a realização de cadstro de endeço. Qual quando é digitado o cep preenche todo os outro campos como; bairro, cidade... mantando a padronização.
 
@@ -47,7 +47,7 @@ O formulário será automaticamente preenchido com as informações do endereço
 
 Caso o CEP não seja encontrado ou seja inválido, uma mensagem de alerta será exibida.
 
-# 📅 Tecnologias Utilizadas
+# 🧮 Tecnologias Utilizadas
 
 - HTML
 
@@ -57,13 +57,13 @@ Caso o CEP não seja encontrado ou seja inválido, uma mensagem de alerta será 
 
 - API ViaCEP
 
-# Fontes
+# 📝 Fontes
 
--viaCep
+- viaCep
 
-# participantes
+# 👧🏻 Participantes
 
--Sarah
+- Sarah
 
 # orientação
 
