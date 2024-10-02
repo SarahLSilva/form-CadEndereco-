@@ -10,15 +10,15 @@ Este projeto permite o preenchimento automático de campos de endereço com base
 
 # 💎 Principais Funções
 
-limparFormulario(): Limpa todos os campos do formulário.
+1. limparFormulario():
 
-eNumero(numero): Verifica se a entrada contém apenas números.
+2. eNumero(numero): 
 
-cepValido(cep): Valida se o CEP possui 8 dígitos.
+3. cepValido(cep):
 
-preencherFormulario(endereco): Preenche os campos com os dados do endereço retornados pela API.
+4. preencherFormulario(endereco): 
 
-pesquisarCep(): Realiza a pesquisa do CEP e preenche o formulário caso a busca seja bem-sucedida.
+5. pesquisarCep(): 
 
 # 🚀 Funcionalidades
 
