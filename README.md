@@ -91,10 +91,13 @@ Caso o CEP não seja encontrado ou seja inválido, uma mensagem de alerta será 
 
 # 📝 Fontes
 
-[ViaCEP](https://viacep.com.br/)
+[ViaCEP](https://viacep.com.br/) 
+
+>foi usado o formato JSON para o projeto
 
 [Mozilla](https://developer.mozilla.org/pt-BR/)
 
+>Referência para pesquisa
 
 # 👧🏻 Participantes
 
