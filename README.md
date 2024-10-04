@@ -4,10 +4,6 @@ Este projeto permite o preenchimento automático de campos de endereço com base
 
 ![banner](img/form-edereco.gif)
 
-# Sumario
-
-
-
 # 💎 Principais Funções
 
 1. limparFormulario():
@@ -64,7 +60,17 @@ O projeto basea-se em tornar mais pratico a realização de cadstro de endeço. 
 
 6. Escutador de Evento:
 
-    > - addEventListener é usado para chamar a função pesquisarCep quando o usuário sai do campo CEP (evento focusout).
+    > - addEventListener é usado para chamar a função pesquisarCep quando o usuário sai do campo CEP (evento focusout: O evento focusout é acionado assim que o elemento perde o foco, no caso quando o usuário sai do campo de texto).
+
+# ✨Atributos diferencias no codigo JavaScript
+
+- 'async function': O async function define uma função assíncrona, que retorna um objeto AsyncFunction. Ele é utilizado em linguagens de programação como o Java Scrypit.
+
+- 'const': A declaração const cria uma variável cujo o valor é fixo, ou seja, uma constante somente leitura. Isso não significa que o valor é imutável, apenas que a variável constante não pode ser alterada ou retribuída.
+
+- 'await': Quando utilizamos await, o JavaScript vai aguardar até que a promessa finalize. Caso ela seja finalizada com sucesso, na qual o termo utilizado é fulfilled), o valor obtido é retornado. 
+
+- 'addres.hasOwnProperty': Resumo O método hasOwnProperty() retorna um booleano indicando se o objeto possui a propriedade especificada como uma propriedade definida no próprio objeto em questão (ao contrário de uma propriedade herdada).
 
 # ⚙️ Como Usar
 
@@ -85,7 +91,10 @@ Caso o CEP não seja encontrado ou seja inválido, uma mensagem de alerta será 
 
 # 📝 Fontes
 
-- viaCep
+[ViaCEP](https://viacep.com.br/)
+
+[Mozilla](https://developer.mozilla.org/pt-BR/)
+
 
 # 👧🏻 Participantes
 
