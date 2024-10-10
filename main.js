@@ -30,7 +30,7 @@ const preencherFormulario = (endereco) => {
 
 async function pesquisarCep() {
     limparFormulario();
-    const url = `http://viacep.com.br/ws/${cep.value}/json/`;
+    const url = `https://viacep.com.br/ws/${cep.value}/json/`;
 
     if (cepValido(cep.value)) {
         const dados = await fetch(url); // fetch: requisição para a variavel url via cep, await: espera essa requisição
